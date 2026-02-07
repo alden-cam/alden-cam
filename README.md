@@ -7,7 +7,7 @@
 - 💞️ I am always open to collaborating/meeting new people with new ideas!
 
 ## Stats
-![Alden's GitHub Stats](https://github-readme-stats-two-xi-19.vercel.app/api?username=alden-cam_icons=true&cache_seconds=1800)
+![Alden's Stats](https://github-readme-beta-rosy.vercel.app/api?username=alden-cam&show_icons=true&cache_seconds=1800)
 
 ## Top Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
